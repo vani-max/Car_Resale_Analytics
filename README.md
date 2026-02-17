@@ -30,17 +30,17 @@ It is provided in a raw and uncleaned format to offer hands-on experience with r
 |**Max_Power**|	Maximum engine power (bhp)|	Float|
 |**Seats**|	Seating capacity |Integer|
 
-##Key Insights & Statistics
+## Key Insights & Statistics
 
 
 
 
-##Analysis Suggestions
+## Analysis Suggestions
 
 
 
 
-##Data Cleaning Notes 
+## Data Cleaning Notes 
 * Converted price, mileage, engine capacity, max power, and kms driven columns to numeric format by removing units and text.
 * Standardized mixed units and inconsistencies in mileage and max_power columns.
 * Handled missing and zero values using median imputation (numerical) and mode (seats).
