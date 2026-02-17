@@ -47,3 +47,5 @@ It is provided in a raw and uncleaned format to offer hands-on experience with r
 * Normalized categorical columns (insurance, fuel_type, owner_type, body_type, city) using proper casing and trimming.
 * Consolidated insurance types into Comprehensive, Third Party, and Not Available.
 * Removed duplicate records and created a new feature car_age from registered year.
+
+## Dashboard
