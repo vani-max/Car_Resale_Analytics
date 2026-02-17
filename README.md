@@ -1,4 +1,4 @@
-# Car Resale Dataset Analyis
+# Car Resale Dataset Analysis
 
 ## Project Overview
 
