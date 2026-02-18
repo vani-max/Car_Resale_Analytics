@@ -30,14 +30,23 @@ It is provided in a raw and uncleaned format to offer hands-on experience with r
 |**Max_Power**|	Maximum engine power (bhp)|	Float|
 |**Seats**|	Seating capacity |Integer|
 
-## Key Insights & Statistics
-
-
-
-
 ## Analysis Suggestions
+* Build regression or ML models to predict resale_price using car specifications and usage details.
+* Analyze how car_age impacts resale price across different car segments.
+* Examine the relationship between kms_driven and resale value.
+* Compare average resale prices across fuel_type and transmission_type.
+* Study how resale prices vary across different Indian cities.
+* Identify the most influential factors affecting car resale value.
 
-
+## Key Insights & Statistics
+* Typical Resale Price: The median resale price is ₹5.65 lakh, which better represents the market than the higher average of ₹8.37 lakh due to premium outliers.
+* Age-Driven Depreciation: Average car age is 9.5 years, with sharp value drops observed beyond the 8–10 year range.
+* Usage Threshold Effect: Vehicles driven beyond 60,000 km experience accelerated depreciation.
+* Fuel Preference: Petrol vehicles dominate listings (~65%), while diesel vehicles retain relatively higher value in older age buckets.
+* Insurance Premium: Comprehensive insurance listings command a clear resale premium over third-party insured vehicles.
+* Market Concentration: A limited number of cities contribute disproportionately to higher-value listings.
+* Segment Skewness: Price distribution is right-skewed due to the presence of luxury vehicles.
+* Data Quality Impact: Standardization of units and insurance categories materially improves analytical reliability.
 
 
 ## Data Cleaning Notes 
@@ -49,3 +58,4 @@ It is provided in a raw and uncleaned format to offer hands-on experience with r
 * Removed duplicate records and created a new feature car_age from registered year.
 
 ## Dashboard
+![Dashboard image](dashboard.png)
