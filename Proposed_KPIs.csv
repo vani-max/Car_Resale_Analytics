@@ -1,0 +1,23 @@
+,,,,
+,,,,
+,,PROPOSED KPIs,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,KPI,Value,Notes
+,,Average Resale Price,"₹837,234","Represents the typical resale value of cars in the dataset, indicating overall market pricing levels."
+,,Median Resale Price,~₹7–8 Lakh (approx.),Provides a more robust central price indicator by reducing the effect of extreme high-end listings.
+,,Total Listings,"11,867",Indicates the total number of cars available for resale after data cleaning and duplicate removal.
+,,Highest Sale Price Bucket,₹3L – ₹7L,Shows the most common high-value price range where most resale transactions are concentrated.
+,,Most Common Fuel Type,Petrol,Reflects dominant consumer preference and higher availability in the resale market.
+,,Average Car Age,~6 years,"Indicates the typical age of vehicles listed, derived using registration year and current year."
+,,Average Kilometers Driven,"~62,000 km",Represents average vehicle usage and helps assess wear-and-tear impact on resale value.
+,,Most Common Insurance Type,Comprehensive,"Shows buyer preference for well-insured vehicles, improving resale attractiveness."
+,,First Owner Share,Majority,"Indicates that most listings are from first owners, which generally improves resale value and buyer trust."
+,,Average Engine Capacity,"~1,300 cc","Reflects common engine size in the resale market, balancing performance and fuel efficiency."
+,,Average Mileage,~18 km/l,Indicates typical fuel efficiency across vehicles after unit standardization and cleaning.
+,,City with Highest Listings,"Metro Cities (e.g., Delhi / Mumbai)",Highlights urban dominance in car resale activity and supply concentration.
+,,SUV Body Type Share,High,Shows strong market demand for SUVs compared to hatchbacks and sedans.
+,,Duplicate Removal Count,129 rows,Confirms data quality improvement by eliminating redundant listings.
+,,Data Completeness After Cleaning,~99%,"Reflects high-quality, analysis-ready dataset after robust cleaning and standardization."

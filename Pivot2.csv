@@ -1,0 +1,12 @@
+,PIVOT 2 : Vehicle Characteristics & Value Drivers,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Fuel Type,AVERAGE of Resale Price,AVERAGE of Mileage,COUNTA of Cars,Fuel Type Share
+,Cng,492872.79,28.25,283,2.38%
+,Diesel,1185390.20,19.80,3750,31.60%
+,Electric,3605937.50,120.00,32,0.27%
+,Lpg,176014.70,18.29,27,0.23%
+,Petrol,672727.59,19.13,7774,65.51%
+,Grand Total,837234.37,19.58,11866,100.00%
