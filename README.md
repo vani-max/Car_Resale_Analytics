@@ -58,4 +58,4 @@ It is provided in a raw and uncleaned format to offer hands-on experience with r
 * Removed duplicate records and created a new feature car_age from registered year.
 
 ## Dashboard
-![Dashboard image](dashboardd.png)
+![Dashboard image](Dashboardd.png)
